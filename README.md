@@ -11,7 +11,7 @@ In this Notebook , We are going to perform Exploratory Data Analysis (EDA) was p
 📌 The columns namely rate, location, rest_type, dish_liked, cuisines and cost are having null values present.
 📌 The most no of restaurents are presnets in BTM location and followed by koramangala 5th Block, HSR, JP Nagar and so on.
 📌
-📌
+📌aa
 📌
 📌
 📌
