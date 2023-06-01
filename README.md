@@ -7,7 +7,7 @@ In this Notebook , We are going to perform Exploratory Data Analysis (EDA) was p
 1. Applied data pre-processing and preparation techniques in order to obtain clean data.
 2. Univariate and Bivariate Analysis was done to find out interesting findings.
 3. Inisghts Obtained are as follows:
-4. 
+
 # Insights
 
 📌 The columns namely rate, location, rest_type, dish_liked, cuisines and cost are having null values present.
